@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non nunc velit.
 
 Nullam sed lacus at eros elementum euismod eget eget orci. Integer nunc mi, convallis ut mattis non, congue sed metus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce id porttitor nibh, eget vehicula ipsum. Aenean eu nibh pharetra est egestas tincidunt vitae sed mauris.
 
-.. admonition:: warning
+.. admonition:: example
 
    Nullam sed lacus at eros elementum euismod eget eget orci. 
    Integer nunc mi, convallis ut mattis non, congue sed metus.

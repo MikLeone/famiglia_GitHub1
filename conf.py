@@ -13,7 +13,7 @@ settings_file_name = 'titolo-documento'
 # -- No need to change below here
 
 import sys, os
-docs_italia_theme = __import__("docs-italia-theme")
+docs_italia_theme = __import__("docs_italia_theme")
 from recommonmark.transform import AutoStructify
 from recommonmark.parser import CommonMarkParser
 
@@ -48,7 +48,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'docs-italia-theme',
+    'docs_italia_theme',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
